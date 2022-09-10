@@ -20,3 +20,7 @@ app.listen(3000);
   
   ```
   
+  
+- [x] Learn GitHub  and Git
+- [X] Learn NodeJs and express
+- [] create projects  
