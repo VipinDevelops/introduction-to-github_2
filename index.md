@@ -1,4 +1,4 @@
-# <h1> starting learning using markdown using github skills 
+# <h1> starting learning markdown using github skills 
 # <h3> i learned creating repo's and  branchs and also adding and merging files 
 
 
