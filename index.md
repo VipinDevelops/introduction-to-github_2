@@ -1,5 +1,5 @@
 # <h1> starting learning markdown using github skills 
-# <h3> i learned creating repo's and  branchs and also adding and merging files 
+# <h3> I  learned creating repo's and  branchs and also adding and merging files 
 
 
 ![ Image of my dream coding setup](https://cdn.autonomous.ai/static/upload/images/new_post/which-desk-setup-is-best-for-a-developer-379-1602744788208.jpg)
@@ -23,4 +23,4 @@ app.listen(3000);
   
 - [x] Learn GitHub  and Git
 - [X] Learn NodeJs and express
-- [ ] create projects  
+- [ ] Create projects  
